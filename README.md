@@ -1,4 +1,4 @@
-# Python-File-Renamer
+# Python-File-Renamer :file_folder:
 ## Info
 This python script will reanme files based on some template list
 
